@@ -2,12 +2,24 @@
 
 .logo {
     width: 100px;
+    float: left;
 }
 .title {
     font-size: 40;
     font-family: "Inknut Antiqua";
     color: white;
+    text-align: center;
 }
 body{
     background-color: #450000;
+}
+.colour{
+    background-color: #0D9121;
+    padding: 0%;
+    padding: 15px;
+    font-size: 20px;
+    
+}
+.left{
+    margin-left: 15px;
 }
