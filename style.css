@@ -23,3 +23,14 @@ body{
 .left{
     margin-left: 15px;
 }
+main{
+    color: white;
+}
+.text{
+    font-size: 30px;
+}
+.sam{
+    width: 490px;
+    float: right;
+    text-align: center;
+}
