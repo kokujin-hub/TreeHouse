@@ -15,7 +15,7 @@ body{
     background-color: #450000;
     padding: 0%;
 }
-.colour{
+.colournav{
     background-color: #0D9121;
     padding: 0%;
     padding: 15px;
@@ -37,7 +37,7 @@ main{
 p{
     color: white;
 }
-.margin{
+.moreinfo{
     margin-top: 200px;
     font-size: 30px;
 }
