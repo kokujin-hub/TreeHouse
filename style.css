@@ -82,3 +82,16 @@ footer{
 .review p{
     font-size: 20px;
 }
+
+.housetype img {
+    width: 310px;
+    float: left;
+    margin-left: 50px;
+}
+
+
+.marginparag {
+    margin-top: 10px;
+    font-size: 35px;
+
+}
